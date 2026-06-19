@@ -1,0 +1,13 @@
+
+    Diabetes is a chronic disease that occurs when the pancreas does not produce enough insulin.
+    Symptoms include increased thirst, frequent urination, fatigue, and blurred vision.
+    Type 1 diabetes requires insulin therapy. Type 2 diabetes can be managed with diet and exercise.
+    
+    Hypertension or high blood pressure is when the force of blood against artery walls is too high.
+    Symptoms include headaches, shortness of breath, and nosebleeds.
+    Treatment includes lifestyle changes and medications like ACE inhibitors.
+    
+    Asthma is a condition where airways narrow and swell producing extra mucus.
+    Symptoms include shortness of breath, chest tightness, wheezing and coughing.
+    Treatment includes inhalers and avoiding triggers.
+    
